@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="bg-[#16182b] h-[100vh] text-[#ddd]">
       <div className='flex flex-col items-center mt-20'>
-        <h1 className='text-6xl my-10 text-[#ebebeb] font-black'>Hello Gamer</h1>
+        <h1 className='text-6xl my-10 text-[#ebebeb] font-black'>Hello Gamer </h1>
         <div className='flex items-center w-[37rem] shadow-lg shadow-[#0a0c1bc2]'>
             <div className='rounded-l-lg bg-[#0a0c1b] h-[42px] flex items-center px-4'>
               <Search set="light" primaryColor="white" size={23} />
