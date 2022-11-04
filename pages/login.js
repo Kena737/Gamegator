@@ -2,7 +2,7 @@
 const Login = () => {
   return (
     <div>
-      <h1>Hello World it's Login page</h1>
+      <h1>Hello World its Login page</h1>
     </div>
   )
 }
